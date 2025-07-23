@@ -13,7 +13,7 @@ I believe tech isn't just about writing code, it's about solving problems, build
 <ul>
   <li>🎓 Pursuing <b>Diploma in CS (4th Sem)</b></li>
   <li>🧠 Learning: C++, Python, Web Dev, Assembly, Git</li>
-  <li>💬 I talk to my own voice assistant — yep, I built one! Her name is **Nobita** 🤖</li> -
+  <li>💬 I talk to my own voice assistant — yep, I built one! Her name is **Nobita** 🤖</li>
   <li>💭 Dreaming of working in AI/ML someday — but learning it *step-by-step* right now</li>
 
 <hr>
