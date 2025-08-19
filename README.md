@@ -8,12 +8,12 @@
 
 <h2><b><u>About Me</u></b></h2>
 
-<p> Hey there! I'm Palak — a student who's not just learning Computer Science, but actually enjoying it.<br>
+<p> Hey there! I'm Palak — a student who's not just learning Computer Science, but enjoying it.<br>
 I believe tech isn't just about writing code, it's about solving problems, building things that work, and making life a little cooler.</p>
 <ul>
-  <li>🎓 Pursuing <b>Diploma in CS (4th Sem)</b></li>
+  <li>🎓 Pursuing <b>Diploma in CS (3rd Year)</b></li>
   <li>🧠 Learning: C++, Python, Web Dev, Assembly, Git</li>
-  <li>💬 I talk to my own voice assistant — yep, I built one! Her name is **Nobita** 🤖</li>
+  <li>💬 I talk to my voice assistant — yep, I built one! Her name is **Nobita** 🤖</li>
   <li>💭 Dreaming of working in AI/ML someday — but learning it *step-by-step* right now</li>
 
 <hr>
@@ -22,7 +22,7 @@ I believe tech isn't just about writing code, it's about solving problems, build
 <ol>
   <li>Languages: C, C++, Python, HTML, CSS</li>
   <li>Tools: Git, GitHub, VS Code</li>
-  <li>🎯Areas I'm exploring: AI/ML, Assembly Language, Frontend</li>
+  <li>🎯Areas I'm exploring: AI/ML, Assembly Language, Full Stack Development</li>
 </ol>
   
 
@@ -41,8 +41,8 @@ I believe tech isn't just about writing code, it's about solving problems, build
 <h2> <b> <u> 🌐 Connect With Me </u> </b> </h2>
 <ul>
  <li>📧 <a href="mailto:palakteotia2708@gmail.com">palakteotia2708@gmail.com</a></li>
- <li>🌍 Portfolio: <i>coming soon, still building </i></li>
- <li>💬 Just a message away if you love tech, want to collaborate, or just say hi 🙂</li>
+ <li>🌍 Portfolio:<a href="https://github.com/Palak-teotia/portfolio-palak">Check My Portfolio here</li>
+ <li>💬 Just a message away if you love tech, want to collaborate, or say hi 🙂</li>
 </ul>
 
 <hr>
